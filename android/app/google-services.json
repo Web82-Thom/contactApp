@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645073415257",
+    "project_id": "thom-tchat-974f7",
+    "storage_bucket": "thom-tchat-974f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645073415257:android:e74c1a54d51e380e971548",
+        "android_client_info": {
+          "package_name": "com.thomDev.thomTchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645073415257-du528fj3bsuhpe62vlt2okn0m9n4oiup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thomDev.thomTchat",
+            "certificate_hash": "9014130afb80d66cab03ffbeac901bba8dee0f43"
+          }
+        },
+        {
+          "client_id": "645073415257-nh33gis0cujfm42konokaa5vu178g2f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3uPrBGSGeRjheBgR8Egrxhoubk_2ZTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645073415257-nh33gis0cujfm42konokaa5vu178g2f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
