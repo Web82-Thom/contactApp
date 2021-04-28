@@ -1,5 +1,6 @@
-import 'package:contact_app/screens/term_screen.dart';
 import 'package:flutter/material.dart';
+
+import '../screens/term_screen.dart';
 
 class PasswordScreen extends StatefulWidget {
   final Function(int) onChangedStep;

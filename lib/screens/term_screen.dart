@@ -22,9 +22,8 @@ class _TermScreenState extends State<TermScreen> {
     _scrollController = ScrollController();
 
     _scrollController.addListener(() {
-      if (_scrollController.offset >=
-              _scrollController.position.maxScrollExtent &&
-          !_scrollController.position.outOfRange) {
+      if (_scrollController.offset >= _scrollController.position.maxScrollExtent 
+          && !_scrollController.position.outOfRange) {
         setState(
           () => _termsReaded = true,
         );

@@ -143,10 +143,10 @@
       "name": "contact_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.10"
     }
   ],
-  "generated": "2021-04-28T09:10:39.729637Z",
+  "generated": "2021-04-28T09:18:22.869127Z",
   "generator": "pub",
   "generatorVersion": "2.13.0-116.0.dev"
 }
